@@ -1,0 +1,21 @@
+	VIRSorter category	Circular	Prophage	Gene count	Strand switches	potential AMG count	Transposase present	Possible Non-Viral Contig	Viral hypothetical genes	Viral structure genes	Viral genes with host benefits	Viral genes with viral benefits	Viral genes with unknown function
+k141_10688__lt2gene-cat_1	1	False	False	1	0	0	False	0.0	1.0	0.0	0.0	0.0	0.0
+k141_10784__full-cat_1	1	False	False	2	0	0	False	0.0	1.0	1.0	0.0	0.0	0.0
+k141_113788__full-cat_2	2	False	False	2	0	0	False	0.0	2.0	0.0	0.0	0.0	0.0
+k141_121589__full_1-cat_1	1	False	False	3	0	0	False	0.0	3.0	0.0	0.0	0.0	0.0
+k141_130680__full-cat_1	1	False	False	3	0	0	False	0.0	3.0	0.0	0.0	0.0	0.0
+k141_149981__lt2gene-cat_1	1	False	False	1	0	0	False	0.0	0.0	1.0	0.0	0.0	0.0
+k141_152465__full-cat_2	2	False	False	4	0	0	False	0.25	2.0	0.0	2.0	0.0	0.0
+k141_160941__full-cat_1	1	False	False	3	1	0	False	0.0	2.0	1.0	0.0	0.0	0.0
+k141_177724__lt2gene-cat_1	1	False	False	1	0	0	False	0.0	1.0	0.0	0.0	0.0	0.0
+k141_189868__lt2gene-cat_1	1	False	False	1	0	0	False	0.0	0.0	1.0	0.0	0.0	0.0
+k141_191974__full-cat_2	2	False	False	11	2	0	False	0.09090909090909091	10.0	0.0	1.0	0.0	0.0
+k141_198156__full-cat_1	1	False	False	2	0	0	False	0.0	1.0	1.0	0.0	0.0	0.0
+k141_224951__full-cat_2	2	False	False	10	0	0	False	0.0	10.0	0.0	0.0	0.0	0.0
+k141_229477__full-cat_1	1	False	False	2	0	0	False	0.0	2.0	0.0	0.0	0.0	0.0
+k141_231596__full-cat_1	1	False	False	7	0	0	False	0.0	0.0	3.0	1.0	2.0	1.0
+k141_51292__full-cat_2	2	False	False	5	1	0	False	0.0	4.0	0.0	0.0	0.0	1.0
+k141_57619__full-cat_1	1	False	False	2	0	0	False	0.0	2.0	0.0	0.0	0.0	0.0
+k141_5988__full-cat_1	1	False	False	3	0	0	False	0.0	2.0	1.0	0.0	0.0	0.0
+k141_73243__full-cat_1	1	False	False	2	0	0	False	0.0	2.0	0.0	0.0	0.0	0.0
+k141_8063__lt2gene-cat_1	1	False	False	1	0	0	False	0.0	0.0	1.0	0.0	0.0	0.0

@@ -1,0 +1,12 @@
+CitationID	Tissue	Species
+Crump et al. (2018)	plant tissue	"Zostera marina, Zostera japonica"
+Cucio et al. (2018)	plant tissue	Zostera marina
+Fraser et al. (2018)	sediment	Amphibolis antarctica
+Fraser et al. (2023)	sediment	Posidonia sinuosa
+Miranda et al. (2022)	both	"Zostera marina, Phyllospadix serrulatus, Phyllospadix scouleri"
+Mohr et al. (2021)	plant tissue	Posidonia oceanica
+Rubio-Portillo et al. (2021)	plant tissue	Posidonia oceanica
+Schorn et al. (2022)	sediment	Posidonia oceanica
+Sogin et al. (2022)	sediment	Posidonia oceanica
+Sogin et al. (2022)	sediment	Posidonia oceanica
+This study	plant tissue	Zostera marina

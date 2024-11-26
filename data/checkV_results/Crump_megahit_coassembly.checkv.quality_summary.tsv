@@ -1,0 +1,21 @@
+contig_id	contig_length	provirus	proviral_length	gene_count	viral_genes	host_genes	checkv_quality	miuvig_quality	completeness	completeness_method	contamination	kmer_freq	warnings
+k141_191974||full	10182	No	NA	11	0	10	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+k141_51292||full	5934	No	NA	5	3	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.0	
+k141_10688||lt2gene	15517	No	NA	1	1	0	High-quality	High-quality	100.0	AAI-based (medium-confidence)	0.0	1.0	
+k141_10784||full	7217	No	NA	2	1	0	Medium-quality	Genome-fragment	79.77	AAI-based (medium-confidence)	0.0	1.0	
+k141_121589||full	7737	Yes	7534	4	1	1	High-quality	High-quality	93.8	HMM-based (lower-bound)	2.62	1.0	
+k141_152465||full	5373	No	NA	4	0	3	Low-quality	Genome-fragment	3.08	AAI-based (high-confidence)	0.0	1.0	no viral genes detected
+k141_113788||full	5006	No	NA	2	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+k141_73243||full	7544	No	NA	2	1	0	Medium-quality	Genome-fragment	63.91	AAI-based (medium-confidence)	0.0	1.0	
+k141_224951||full	5711	No	NA	10	0	9	Not-determined	Genome-fragment	NA	NA	0.0	1.01	no viral genes detected
+k141_198156||full	7030	No	NA	2	2	0	Medium-quality	Genome-fragment	79.07	AAI-based (medium-confidence)	0.0	1.0	
+k141_177724||lt2gene	8592	No	NA	1	0	0	Not-determined	Genome-fragment	NA	NA	0.0	1.0	no viral genes detected
+k141_57619||full	5068	No	NA	2	2	0	High-quality	High-quality	96.35	AAI-based (high-confidence)	0.0	1.0	
+k141_5988||full	6651	No	NA	3	2	0	Medium-quality	Genome-fragment	73.42	AAI-based (medium-confidence)	0.0	1.0	
+k141_229477||full	7891	No	NA	2	1	0	Medium-quality	Genome-fragment	66.79	AAI-based (medium-confidence)	0.0	1.01	
+k141_189868||lt2gene	5238	No	NA	1	1	0	Medium-quality	Genome-fragment	57.02	AAI-based (medium-confidence)	0.0	1.0	
+k141_8063||lt2gene	5298	No	NA	1	1	0	Medium-quality	Genome-fragment	58.41	AAI-based (high-confidence)	0.0	1.0	
+k141_149981||lt2gene	6114	No	NA	1	1	0	Medium-quality	Genome-fragment	66.79	AAI-based (medium-confidence)	0.0	1.0	
+k141_231596||full	5527	No	NA	7	6	0	Complete	High-quality	100.0	DTR (high-confidence)	0.0	1.02	
+k141_160941||full	5107	No	NA	3	2	0	Medium-quality	Genome-fragment	56.5	AAI-based (medium-confidence)	0.0	1.0	
+k141_130680||full	7439	No	NA	3	1	0	Medium-quality	Genome-fragment	81.68	HMM-based (lower-bound)	0.0	1.0	

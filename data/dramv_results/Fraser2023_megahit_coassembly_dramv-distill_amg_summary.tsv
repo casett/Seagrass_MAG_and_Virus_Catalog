@@ -1,0 +1,5 @@
+gene	scaffold	gene_id	gene_description	category	header	subheader	module	auxiliary_score	amg_flags
+k141_698888__full-cat_2_6	k141_698888__full-cat_2							3	MKF
+k141_8300__full-cat_2_2	k141_8300__full-cat_2	K02032	ABC.PE.A1; peptide/nickel transport system ATP-binding protein	Transporters			Peptides/nickel transport system	3	MF
+k141_904341__full-cat_2_4	k141_904341__full-cat_2							3	MKF
+k141_904341__full-cat_2_5	k141_904341__full-cat_2							3	MKF

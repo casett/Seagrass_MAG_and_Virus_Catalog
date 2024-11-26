@@ -1,0 +1,6 @@
+seqname	dsDNAphage	NCLDV	RNA	ssDNA	lavidaviridae	max_score	max_score_group	length	hallmark	viral	cellular
+k141_1103||full	0.427	0.567	0.190	0.160	0.667	0.667	lavidaviridae	5307	0	50.000	0.000
+k141_720||full	0.167	0.673	0.140	0.087	0.467	0.673	NCLDV	5296	0	33.300	0.000
+k141_872||full	0.200	0.687	0.095	0.013	0.200	0.687	NCLDV	5144	0	20.000	0.000
+k141_1120||full	0.587	0.233	0.095	0.013	0.060	0.587	dsDNAphage	5576	0	11.100	0.000
+k141_828||full	0.067	0.727	0.045	0.013	0.100	0.727	NCLDV	5110	0	25.000	0.000

@@ -1,0 +1,141 @@
+gene	scaffold	gene_id	gene_description	category	header	subheader	module	auxiliary_score	amg_flags
+k141_10072373__full-cat_1_32	k141_10072373__full-cat_1							1	MK
+k141_10092925__full-cat_2_5	k141_10092925__full-cat_2	K00560	thymidylate synthase [EC:2.1.1.45] [RN:R02101]	MISC	Information systems	Nucleotide	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP	3	MF
+k141_10110195__full-cat_2_3	k141_10110195__full-cat_2	M54	Catlytic type: Metallo; eukaryote archelysin has a preference for arginine in P1; the AMZ1 protein cleaves alanyl bonds	Organic Nitrogen	Peptidase		Aminopeptidases, sometimes termed archaelysins or archaemetzincins	3	MF
+k141_11485036__full-cat_2_3	k141_11485036__full-cat_2	K01652	acetolactate synthase [EC:2.2.1.6] [RN:R00226 R08648]	Organic Nitrogen	Amino Acid		Valine/isoleucine biosynthesis, pyruvate => valine / 2-oxobutanoate => isoleucine	3	MF
+k141_11485036__full-cat_2_3	k141_11485036__full-cat_2	K01652	acetolactate synthase [EC:2.2.1.6] [RN:R08648]	Organic Nitrogen	Amino Acid		Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	3	MF
+k141_11525280__full-cat_2_7	k141_11525280__full-cat_2							3	MKE
+k141_12706514__full-cat_2_7	k141_12706514__full-cat_2							3	MKF
+k141_12834316__full-cat_2_3	k141_12834316__full-cat_2							3	MKF
+k141_12835965__full-cat_1_8	k141_12835965__full-cat_1	K01494	dCTP deaminase [EC:3.5.4.13] [RN:R02325]	MISC	Information systems	Nucleotide	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP	2	M
+k141_12857516__full-cat_1_10	k141_12857516__full-cat_1							2	MKF
+k141_14086572__full-cat_2_5	k141_14086572__full-cat_2							3	MKF
+k141_14231419__full-cat_2_6	k141_14231419__full-cat_2	K01520	dUTP pyrophosphatase [EC:3.6.1.23] [RN:R02100]	MISC	Information systems	Nucleotide	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP	3	MF
+k141_14262313__full-cat_2_4	k141_14262313__full-cat_2							3	MKF
+k141_14319473__full-cat_1_2	k141_14319473__full-cat_1							2	MKTF
+k141_15539162__full-cat_2_4	k141_15539162__full-cat_2	K00036	glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363 1.1.1.388] [RN:R02736 R10907]	carbon utilization	central carbon	pentose pathway	Pentose phosphate pathway (Pentose phosphate cycle)	3	MKEF
+k141_15539162__full-cat_2_4	k141_15539162__full-cat_2	K00036	glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363 1.1.1.388] [RN:R02736 R10907]	carbon utilization	central carbon	pentose pathway	Pentose phosphate pathway, oxidative phase, glucose 6P => ribulose 5P	3	MKEF
+k141_15539162__full-cat_2_4	k141_15539162__full-cat_2	K00036	glucose-6-phosphate 1-dehydrogenase [EC:1.1.1.49 1.1.1.363] [RN:R02736 R10907]	carbon utilization	central carbon	glycolysis	Entner-Doudoroff pathway, glucose-6P => glyceraldehyde-3P + pyruvate	3	MKEF
+k141_15556451__full-cat_1_6	k141_15556451__full-cat_1							2	MKF
+k141_15616971__full-cat_2_56	k141_15616971__full-cat_2							3	MK
+k141_15686095__full-cat_1_2	k141_15686095__full-cat_1							2	MKF
+k141_15686095__full-cat_1_6	k141_15686095__full-cat_1	CE3	CE3 acetyl xylan esterase (EC 3.1.1.72).	carbon utilization	CAZY		Carbohydrate Esterases	2	MF
+k141_1614799__full-cat_1_11	k141_1614799__full-cat_1							2	MK
+k141_16951999__full-cat_2_18	k141_16951999__full-cat_2	K01494	dCTP deaminase [EC:3.5.4.13] [RN:R02325]	MISC	Information systems	Nucleotide	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP	3	MF
+k141_16999002__full-cat_2_4	k141_16999002__full-cat_2	K11602	mntB; manganese transport system permease protein	Transporters			Manganese transport system	3	MTF
+k141_17011411__full-cat_2_5	k141_17011411__full-cat_2							3	MKF
+k141_17019352__full-cat_1_4	k141_17019352__full-cat_1	S41A	Catlytic type: Serine; recognizes a C-terminal tripeptide, Xaa-Yaa-Zaa, in which Xaa is preferably Ala or Leu, Yaa is preferably Ala or Tyr and Zaa is preferably Ala and cleaves at a variable distance from the C-terminus; important for the degradation of incorrectly synthesized proteins	Organic Nitrogen	Peptidase		Serine endopeptidases	2	MF
+k141_18321084__full-cat_1_41	k141_18321084__full-cat_1							1	MK
+k141_18440499__full-cat_2_2	k141_18440499__full-cat_2							3	MKF
+k141_19686364__full-cat_1_7	k141_19686364__full-cat_1	K00558	DNA (cytosine-5-)-methyltransferase [EC:2.1.1.37] [RN:R04858]	Organic Nitrogen	Amino Acid		Methionine degradation	2	MF
+k141_202876__full-cat_2_7	k141_202876__full-cat_2	K02959	small subunit ribosomal protein S16	MISC	Information systems		Ribosome, bacteria	3	MF
+k141_202876__full-cat_2_8	k141_202876__full-cat_2	K02986	small subunit ribosomal protein S4	MISC	Information systems		Ribosome, bacteria	3	MF
+k141_202876__full-cat_2_8	k141_202876__full-cat_2	K02986	small subunit ribosomal protein S4	MISC	Information systems		Ribosome, archaea	3	MF
+k141_203065__full-cat_2_6	k141_203065__full-cat_2							3	MKF
+k141_21169861__full-cat_2_7	k141_21169861__full-cat_2							3	MKF
+k141_21197463__full-cat_1_3	k141_21197463__full-cat_1							2	MKF
+k141_21197463__full-cat_1_4	k141_21197463__full-cat_1							2	MKF
+k141_22583307__full-cat_2_5	k141_22583307__full-cat_2	K00024	malate dehydrogenase [EC:1.1.1.37] [RN:R00342]	carbon utilization	central carbon	TCA	Citrate cycle (TCA cycle, Krebs cycle)	3	MF
+k141_22583307__full-cat_2_5	k141_22583307__full-cat_2	K00024	malate dehydrogenase [EC:1.1.1.37] [RN:R00342]	carbon utilization	central carbon	TCA	Citrate cycle, second carbon oxidation, 2-oxoglutarate => oxaloacetate	3	MF
+k141_22583307__full-cat_2_5	k141_22583307__full-cat_2	K00024	malate dehydrogenase [EC:1.1.1.37] [RN:R00342]	carbon utilization	central carbon	TCA	Incomplete reductive citrate cycle, acetyl-CoA => oxoglutarate	3	MF
+k141_22583307__full-cat_2_5	k141_22583307__full-cat_2	K00024	malate dehydrogenase [EC:1.1.1.37] [RN:R00342]	carbon utilization	central carbon	glycolysis	Glyoxylate cycle	3	MF
+k141_22583307__full-cat_2_5	k141_22583307__full-cat_2	K00024	malate dehydrogenase [EC:1.1.1.37] [RN:R00342]	Energy	C1		Reductive citrate cycle (Arnon-Buchanan cycle)	3	MF
+k141_22583307__full-cat_2_5	k141_22583307__full-cat_2	K00024	malate dehydrogenase [EC:1.1.1.37] [RN:R00342]	Energy	C1		Dicarboxylate-hydroxybutyrate cycle	3	MF
+k141_22583307__full-cat_2_5	k141_22583307__full-cat_2	K00024	malate dehydrogenase [EC:1.1.1.37] [RN:R00342]	Organic Nitrogen	Amino Acid		Methylaspartate cycle	3	MF
+k141_22583307__full-cat_2_7	k141_22583307__full-cat_2							3	MKF
+k141_22650378__full-cat_2_6	k141_22650378__full-cat_2	K11175	phosphoribosylglycinamide formyltransferase [EC:2.1.2.2] [RN:R04325]	MISC	Information systems	Nucleotide	Inosine monophosphate biosynthesis, PRPP + glutamine => IMP	3	MKF
+k141_23908004__full-cat_1_4	k141_23908004__full-cat_1	K01754	threonine dehydratase [EC:4.3.1.19] [RN:R00996]	Organic Nitrogen	Amino Acid		Isoleucine biosynthesis, threonine => 2-oxobutanoate => isoleucine	1	MKF
+k141_23983350__full-cat_1_2	k141_23983350__full-cat_1							2	MKF
+k141_23983350__full-cat_1_5	k141_23983350__full-cat_1	GT2	GT2 cellulose synthase (EC 2.4.1.12); chitin synthase (EC 2.4.1.16); dolichyl-phosphate beta-D-mannosyltransferase (EC 2.4.1.83); dolichyl-phosphate beta-glucosyltransferase (EC 2.4.1.117); N-acetylglucosaminyltransferase (EC 2.4.1.-); N-acetylgalactosaminyltransferase (EC 2.4.1.-); hyaluronan synthase (EC 2.4.1.212); chitin oligosaccharide synthase (EC 2.4.1.-); beta-1,3-glucan synthase (EC 2.4.1.34); beta-1,4-mannan synthase (EC 2.4.1.-); beta-mannosylphosphodecaprenol-mannooligosaccharide alpha-1,6-mannosyltransferase (EC 2.4.1.199); UDP-Galf: rhamnopyranosyl-N-acetylglucosaminyl-PP-decaprenol beta-1,4/1,5-galactofuranosyltransferase (EC 2.4.1.287); UDP-Galf: galactofuranosyl-galactofuranosyl-rhamnosyl-N-acetylglucosaminyl-PP-decaprenol beta-1,5/1,6-galactofuranosyltransferase (EC 2.4.1.288); dTDP-L-Rha: N-acetylglucosaminyl-PP-decaprenol alpha-1,3-L-rhamnosyltransferase (EC 2.4.1.289)	carbon utilization	CAZY		GlycosylTransferases	2	MF
+k141_23983350__full-cat_1_6	k141_23983350__full-cat_1	GT2	GT2 cellulose synthase (EC 2.4.1.12); chitin synthase (EC 2.4.1.16); dolichyl-phosphate beta-D-mannosyltransferase (EC 2.4.1.83); dolichyl-phosphate beta-glucosyltransferase (EC 2.4.1.117); N-acetylglucosaminyltransferase (EC 2.4.1.-); N-acetylgalactosaminyltransferase (EC 2.4.1.-); hyaluronan synthase (EC 2.4.1.212); chitin oligosaccharide synthase (EC 2.4.1.-); beta-1,3-glucan synthase (EC 2.4.1.34); beta-1,4-mannan synthase (EC 2.4.1.-); beta-mannosylphosphodecaprenol-mannooligosaccharide alpha-1,6-mannosyltransferase (EC 2.4.1.199); UDP-Galf: rhamnopyranosyl-N-acetylglucosaminyl-PP-decaprenol beta-1,4/1,5-galactofuranosyltransferase (EC 2.4.1.287); UDP-Galf: galactofuranosyl-galactofuranosyl-rhamnosyl-N-acetylglucosaminyl-PP-decaprenol beta-1,5/1,6-galactofuranosyltransferase (EC 2.4.1.288); dTDP-L-Rha: N-acetylglucosaminyl-PP-decaprenol alpha-1,3-L-rhamnosyltransferase (EC 2.4.1.289)	carbon utilization	CAZY		GlycosylTransferases	2	MKF
+k141_23983350__full-cat_1_6	k141_23983350__full-cat_1	GT27	GT27 polypeptide alpha-N-acetylgalactosaminyltransferase (EC 2.4.1.41)	carbon utilization	CAZY		GlycosylTransferases	2	MKF
+k141_23983350__full-cat_1_6	k141_23983350__full-cat_1	GT4	GT4 sucrose synthase (EC 2.4.1.13); sucrose-phosphate synthase (EC 2.4.1.14); alpha-glucosyltransferase (EC 2.4.1.52); lipopolysaccharide N-acetylglucosaminyltransferase (EC 2.4.1.56); phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57); GDP-Man: Man1GlcNAc2-PP-dolichol alpha-1,3-mannosyltransferase (EC 2.4.1.132); GDP-Man: Man3GlcNAc2-PP-dolichol/Man4GlcNAc2-PP-dolichol alpha-1,2-mannosyltransferase (EC 2.4.1.131); digalactosyldiacylglycerol synthase (EC 2.4.1.141); 1,2-diacylglycerol 3-glucosyltransferase (EC 2.4.1.157); diglucosyl diacylglycerol synthase (EC 2.4.1.208); trehalose phosphorylase (EC 2.4.1.231); NDP-Glc: alpha-glucose alpha-glucosyltransferase / alpha,alpha-trehalose synthase (EC 2.4.1.245); GDP-Man: Man2GlcNAc2-PP-dolichol alpha-1,6-mannosyltransferase (EC 2.4.1.257); UDP-GlcNAc: 2-deoxystreptamine alpha-N-acetylglucosaminyltransferase (EC 2.4.1.283); UDP-GlcNAc: ribostamycin alpha-N-acetylglucosaminyltransferase (EC 2.4.1.285); UDP-Gal alpha-galactosyltransferase (EC 2.4.1.-); UDP-Xyl alpha-xylosyltransferase (EC 2.4.2.-); UDP-GlcA alpha-glucuronyltransferase (EC 2.4.1.-); UDP-Glc alpha-glucosyltransferase (EC 2.4.1.-); UDP-GalNAc: GalNAc-PP-Und alpha-1,3-N-acetylgalactosaminyltransferase (EC 2.4.1.306); UDP-GalNAc: N,N'-diacetylbacillosaminyl-PP-Und alpha-1,3-N-acetylgalactosaminyltransferase (EC 2.4.1.290); ADP-dependent alpha-maltose-1-phosphate synthase (2.4.1.342)	carbon utilization	CAZY		GlycosylTransferases	2	MKF
+k141_23983350__full-cat_1_11	k141_23983350__full-cat_1	K00527	ribonucleoside-triphosphate reductase [EC:1.17.4.2 1.1.98.6] [RN:R02022 R11636]	MISC	Information systems	Nucleotide	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP	2	MKE
+k141_23983350__full-cat_1_23	k141_23983350__full-cat_1							2	MK
+k141_23983350__full-cat_1_26	k141_23983350__full-cat_1							2	MK
+k141_249107__full-cat_2_2	k141_249107__full-cat_2	K01808	ribose 5-phosphate isomerase [EC:5.3.1.6] [RN:R01056]	carbon utilization	central carbon	pentose pathway	Pentose phosphate pathway (Pentose phosphate cycle)	3	MKF
+k141_249107__full-cat_2_2	k141_249107__full-cat_2	K01808	ribose 5-phosphate isomerase [EC:5.3.1.6] [RN:R01056]	carbon utilization	central carbon	pentose pathway	Pentose phosphate pathway, non-oxidative phase, fructose 6P => ribose 5P	3	MKF
+k141_249107__full-cat_2_2	k141_249107__full-cat_2	K01808	ribose 5-phosphate isomerase [EC:5.3.1.6] [RN:R01056]	Energy	C1		Reductive pentose phosphate cycle (Calvin cycle)	3	MKF
+k141_249107__full-cat_2_2	k141_249107__full-cat_2	K01808	ribose 5-phosphate isomerase [EC:5.3.1.6] [RN:R01056]	Energy	C1		Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P	3	MKF
+k141_249107__full-cat_2_13	k141_249107__full-cat_2							3	MKF
+k141_25363378__full-cat_1_24	k141_25363378__full-cat_1							1	MK
+k141_25416794__full-cat_2_7	k141_25416794__full-cat_2	K00558	DNA (cytosine-5-)-methyltransferase [EC:2.1.1.37] [RN:R04858]	Organic Nitrogen	Amino Acid		Methionine degradation	3	MF
+k141_258372__full-cat_2_8	k141_258372__full-cat_2	K01995	livG; branched-chain amino acid transport system ATP-binding protein	Transporters			Branched-chain amino acid transport system	3	MF
+k141_258372__full-cat_2_8	k141_258372__full-cat_2	K01995	livG; branched-chain amino acid transport system ATP-binding protein	Transporters			Branched-chain amino acid transport system	3	MF
+k141_26621969__full-cat_2_4	k141_26621969__full-cat_2	GT4	GT4 sucrose synthase (EC 2.4.1.13); sucrose-phosphate synthase (EC 2.4.1.14); alpha-glucosyltransferase (EC 2.4.1.52); lipopolysaccharide N-acetylglucosaminyltransferase (EC 2.4.1.56); phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57); GDP-Man: Man1GlcNAc2-PP-dolichol alpha-1,3-mannosyltransferase (EC 2.4.1.132); GDP-Man: Man3GlcNAc2-PP-dolichol/Man4GlcNAc2-PP-dolichol alpha-1,2-mannosyltransferase (EC 2.4.1.131); digalactosyldiacylglycerol synthase (EC 2.4.1.141); 1,2-diacylglycerol 3-glucosyltransferase (EC 2.4.1.157); diglucosyl diacylglycerol synthase (EC 2.4.1.208); trehalose phosphorylase (EC 2.4.1.231); NDP-Glc: alpha-glucose alpha-glucosyltransferase / alpha,alpha-trehalose synthase (EC 2.4.1.245); GDP-Man: Man2GlcNAc2-PP-dolichol alpha-1,6-mannosyltransferase (EC 2.4.1.257); UDP-GlcNAc: 2-deoxystreptamine alpha-N-acetylglucosaminyltransferase (EC 2.4.1.283); UDP-GlcNAc: ribostamycin alpha-N-acetylglucosaminyltransferase (EC 2.4.1.285); UDP-Gal alpha-galactosyltransferase (EC 2.4.1.-); UDP-Xyl alpha-xylosyltransferase (EC 2.4.2.-); UDP-GlcA alpha-glucuronyltransferase (EC 2.4.1.-); UDP-Glc alpha-glucosyltransferase (EC 2.4.1.-); UDP-GalNAc: GalNAc-PP-Und alpha-1,3-N-acetylgalactosaminyltransferase (EC 2.4.1.306); UDP-GalNAc: N,N'-diacetylbacillosaminyl-PP-Und alpha-1,3-N-acetylgalactosaminyltransferase (EC 2.4.1.290); ADP-dependent alpha-maltose-1-phosphate synthase (2.4.1.342)	carbon utilization	CAZY		GlycosylTransferases	3	MKF
+k141_26621969__full-cat_2_6	k141_26621969__full-cat_2							3	MKF
+k141_26689036__full-cat_1_27	k141_26689036__full-cat_1							2	MK
+k141_26689036__full-cat_1_33	k141_26689036__full-cat_1							1	MK
+k141_26692735__full-cat_2_4	k141_26692735__full-cat_2							3	MKF
+k141_26692735__full-cat_2_6	k141_26692735__full-cat_2							3	MKF
+k141_26714478__full-cat_1_7	k141_26714478__full-cat_1							2	MKF
+k141_26714730__full-cat_2_2	k141_26714730__full-cat_2	K01992	ABC-2.P; ABC-2 type transport system permease protein	Transporters			ABC-2 type transport system	3	MF
+k141_26766229__full-cat_2_3	k141_26766229__full-cat_2							3	MKF
+k141_26792739__full-cat_1_4	k141_26792739__full-cat_1							2	MKF
+k141_28054766__full-cat_1_6	k141_28054766__full-cat_1	K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein	Transporters			Putative polar amino acid transport system	2	M
+k141_28054766__full-cat_1_6	k141_28054766__full-cat_1	K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein	Transporters			Putative polar amino acid transport system	2	M
+k141_28054766__full-cat_1_15	k141_28054766__full-cat_1							2	MKF
+k141_28092648__full-cat_2_4	k141_28092648__full-cat_2	K01933	phosphoribosylformylglycinamidine cyclo-ligase [EC:6.3.3.1] [RN:R04208]	MISC	Information systems	Nucleotide	Inosine monophosphate biosynthesis, PRPP + glutamine => IMP	3	MKF
+k141_28102423__full-cat_2_4	k141_28102423__full-cat_2	K02011	ABC.FE.P; iron(III) transport system permease protein	Transporters			Iron(III) transport system	3	MF
+k141_29529269__full-cat_2_7	k141_29529269__full-cat_2							3	MK
+k141_29529269__full-cat_2_8	k141_29529269__full-cat_2							3	MK
+k141_29529269__full-cat_2_10	k141_29529269__full-cat_2							3	MK
+k141_29529269__full-cat_2_14	k141_29529269__full-cat_2	GT4	GT4 sucrose synthase (EC 2.4.1.13); sucrose-phosphate synthase (EC 2.4.1.14); alpha-glucosyltransferase (EC 2.4.1.52); lipopolysaccharide N-acetylglucosaminyltransferase (EC 2.4.1.56); phosphatidylinositol alpha-mannosyltransferase (EC 2.4.1.57); GDP-Man: Man1GlcNAc2-PP-dolichol alpha-1,3-mannosyltransferase (EC 2.4.1.132); GDP-Man: Man3GlcNAc2-PP-dolichol/Man4GlcNAc2-PP-dolichol alpha-1,2-mannosyltransferase (EC 2.4.1.131); digalactosyldiacylglycerol synthase (EC 2.4.1.141); 1,2-diacylglycerol 3-glucosyltransferase (EC 2.4.1.157); diglucosyl diacylglycerol synthase (EC 2.4.1.208); trehalose phosphorylase (EC 2.4.1.231); NDP-Glc: alpha-glucose alpha-glucosyltransferase / alpha,alpha-trehalose synthase (EC 2.4.1.245); GDP-Man: Man2GlcNAc2-PP-dolichol alpha-1,6-mannosyltransferase (EC 2.4.1.257); UDP-GlcNAc: 2-deoxystreptamine alpha-N-acetylglucosaminyltransferase (EC 2.4.1.283); UDP-GlcNAc: ribostamycin alpha-N-acetylglucosaminyltransferase (EC 2.4.1.285); UDP-Gal alpha-galactosyltransferase (EC 2.4.1.-); UDP-Xyl alpha-xylosyltransferase (EC 2.4.2.-); UDP-GlcA alpha-glucuronyltransferase (EC 2.4.1.-); UDP-Glc alpha-glucosyltransferase (EC 2.4.1.-); UDP-GalNAc: GalNAc-PP-Und alpha-1,3-N-acetylgalactosaminyltransferase (EC 2.4.1.306); UDP-GalNAc: N,N'-diacetylbacillosaminyl-PP-Und alpha-1,3-N-acetylgalactosaminyltransferase (EC 2.4.1.290); ADP-dependent alpha-maltose-1-phosphate synthase (2.4.1.342)	carbon utilization	CAZY		GlycosylTransferases	3	MKF
+k141_29529269__full-cat_2_14	k141_29529269__full-cat_2	GT5	GT5 UDP-Glc: glycogen glucosyltransferase (EC 2.4.1.11); ADP-Glc: starch glucosyltransferase (EC 2.4.1.21); NDP-Glc: starch glucosyltransferase (EC 2.4.1.242); UDP-Glc: alpha-1,3-glucan synthase (EC 2.4.1.183) UDP-Glc: alpha-1,4-glucan synthase (EC 2.4.1.-)	carbon utilization	CAZY		GlycosylTransferases	3	MKF
+k141_29529269__full-cat_2_16	k141_29529269__full-cat_2							3	MKF
+k141_3013460__full-cat_2_7	k141_3013460__full-cat_2	K15916	glucose-6-phosphate isomerase [EC:5.3.1.9] [RN:R02740 R02739]	carbon utilization	central carbon	pentose pathway	Pentose phosphate pathway (Pentose phosphate cycle)	3	MF
+k141_3013460__full-cat_2_7	k141_3013460__full-cat_2	K15916	glucose-6-phosphate isomerase [EC:5.3.1.9] [RN:R02740]	carbon utilization	central carbon	glycolysis	Glycolysis (Embden-Meyerhof pathway), glucose => pyruvate	3	MF
+k141_3042102__full-cat_2_6	k141_3042102__full-cat_2	K01520	dUTP pyrophosphatase [EC:3.6.1.23] [RN:R02100]	MISC	Information systems	Nucleotide	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP	3	MF
+k141_3059632__full-cat_2_4	k141_3059632__full-cat_2	K02033	ABC.PE.P; peptide/nickel transport system permease protein	Transporters			Peptides/nickel transport system	3	MF
+k141_3059632__full-cat_2_8	k141_3059632__full-cat_2	K00228	coproporphyrinogen III oxidase [EC:1.3.3.3] [RN:R03220]	MISC	MISC		Heme biosynthesis, animals and fungi, glycine => heme	3	MK
+k141_30839544__full-cat_1_7	k141_30839544__full-cat_1	K01999	livK; branched-chain amino acid transport system substrate-binding protein	Transporters			Branched-chain amino acid transport system	2	MF
+k141_30839544__full-cat_1_7	k141_30839544__full-cat_1	K01999	livK; branched-chain amino acid transport system substrate-binding protein	Transporters			Branched-chain amino acid transport system	2	MF
+k141_30870762__full-cat_2_22	k141_30870762__full-cat_2							3	MKF
+k141_30937100__full-cat_1_26	k141_30937100__full-cat_1	K01494	dCTP deaminase [EC:3.5.4.13] [RN:R02325]	MISC	Information systems	Nucleotide	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP	2	MF
+k141_3130665__full-cat_2_3	k141_3130665__full-cat_2							3	MKF
+k141_316877__full-cat_2_4	k141_316877__full-cat_2							3	MKF
+k141_3188048__full-cat_1_10	k141_3188048__full-cat_1							2	MK
+k141_3188048__full-cat_1_14	k141_3188048__full-cat_1							2	MK
+k141_32240446__full-cat_2_3	k141_32240446__full-cat_2							3	MKF
+k141_32302816__full-cat_2_3	k141_32302816__full-cat_2	K09690	ABC-2.LPSE.P; lipopolysaccharide transport system permease protein	Transporters			Lipopolysaccharide transport system	3	MF
+k141_32302816__full-cat_2_4	k141_32302816__full-cat_2	K09691	ABC-2.LPSE.A; lipopolysaccharide transport system ATP-binding protein	Transporters			Lipopolysaccharide transport system	3	MF
+k141_32307855__full-cat_2_2	k141_32307855__full-cat_2							3	MKF
+k141_32312201__full-cat_1_2	k141_32312201__full-cat_1	M24B	Catlytic type: Metallo; cleave the bond XaaPro; found in eukaryotes associated with collagen recycling	Organic Nitrogen	Peptidase		Exopeptidases that require co-catalytic ions of cobalt or manganese	2	MF
+k141_32365812__full-cat_2_4	k141_32365812__full-cat_2	GT2	GT2 cellulose synthase (EC 2.4.1.12); chitin synthase (EC 2.4.1.16); dolichyl-phosphate beta-D-mannosyltransferase (EC 2.4.1.83); dolichyl-phosphate beta-glucosyltransferase (EC 2.4.1.117); N-acetylglucosaminyltransferase (EC 2.4.1.-); N-acetylgalactosaminyltransferase (EC 2.4.1.-); hyaluronan synthase (EC 2.4.1.212); chitin oligosaccharide synthase (EC 2.4.1.-); beta-1,3-glucan synthase (EC 2.4.1.34); beta-1,4-mannan synthase (EC 2.4.1.-); beta-mannosylphosphodecaprenol-mannooligosaccharide alpha-1,6-mannosyltransferase (EC 2.4.1.199); UDP-Galf: rhamnopyranosyl-N-acetylglucosaminyl-PP-decaprenol beta-1,4/1,5-galactofuranosyltransferase (EC 2.4.1.287); UDP-Galf: galactofuranosyl-galactofuranosyl-rhamnosyl-N-acetylglucosaminyl-PP-decaprenol beta-1,5/1,6-galactofuranosyltransferase (EC 2.4.1.288); dTDP-L-Rha: N-acetylglucosaminyl-PP-decaprenol alpha-1,3-L-rhamnosyltransferase (EC 2.4.1.289)	carbon utilization	CAZY		GlycosylTransferases	3	MF
+k141_32376257__full-cat_2_3	k141_32376257__full-cat_2							3	MKF
+k141_345652__full-cat_2_15	k141_345652__full-cat_2							3	MKF
+k141_345652__full-cat_2_17	k141_345652__full-cat_2							3	MKF
+k141_381604__full-cat_2_5	k141_381604__full-cat_2	K09691	ABC-2.LPSE.A; lipopolysaccharide transport system ATP-binding protein	Transporters			Lipopolysaccharide transport system	3	MF
+k141_381604__full-cat_2_6	k141_381604__full-cat_2	K09690	ABC-2.LPSE.P; lipopolysaccharide transport system permease protein	Transporters			Lipopolysaccharide transport system	3	MF
+k141_4364281__full-cat_2_6	k141_4364281__full-cat_2							3	MKF
+k141_4367031__full-cat_2_2	k141_4367031__full-cat_2	K00958	sulfate adenylyltransferase [EC:2.7.7.4] [RN:R00529]	Energy	Sulfur		Assimilatory sulfate reduction, sulfate => H2S	3	MF
+k141_4367031__full-cat_2_2	k141_4367031__full-cat_2	K00958	sulfate adenylyltransferase [EC:2.7.7.4] [RN:R00529]	Energy	Sulfur		Dissimilatory sulfate reduction, sulfate => H2S	3	MF
+k141_4367031__full-cat_2_3	k141_4367031__full-cat_2	K01784	GALE; UDP-Glc -> UDP-Gal [EC:5.1.3.2]	MISC	Information systems	Nucleotide	Nucleotide sugar biosynthesis, eukaryotes	3	MKF
+k141_4367031__full-cat_2_3	k141_4367031__full-cat_2	K01784	UDP-glucose 4-epimerase [EC:5.1.3.2] [RN:R00291]	carbon utilization	central carbon	glycolysis	Galactose degradation, Leloir pathway, galactose => alpha-D-glucose-1P	3	MKF
+k141_4367031__full-cat_2_3	k141_4367031__full-cat_2	K01784	UDP-glucose 4-epimerase	carbon utilization (Woodcroft)	sugar utilization (woodcroft)	galactose degradation	Galactose metabolism	3	MKF
+k141_438815__full-cat_2_3	k141_438815__full-cat_2	K03841	fructose-1,6-bisphosphatase [EC:3.1.3.11] [RN:R04780]	carbon utilization	central carbon	glycolysis	Gluconeogenesis, oxaloacetate => fructose-6P	3	MF
+k141_438815__full-cat_2_3	k141_438815__full-cat_2	K03841	fructose-1,6-bisphosphatase [EC:3.1.3.11] [RN:R00762]	Energy	C1		Reductive pentose phosphate cycle (Calvin cycle)	3	MF
+k141_438815__full-cat_2_3	k141_438815__full-cat_2	K03841	fructose-1,6-bisphosphatase [EC:3.1.3.11] [RN:R00762]	Energy	C1		Reductive pentose phosphate cycle, glyceraldehyde-3P => ribulose-5P	3	MF
+k141_4450670__full-cat_2_2	k141_4450670__full-cat_2							3	MKF
+k141_4457794__full-cat_2_4	k141_4457794__full-cat_2	K09691	ABC-2.LPSE.A; lipopolysaccharide transport system ATP-binding protein	Transporters			Lipopolysaccharide transport system	3	MF
+k141_4457794__full-cat_2_5	k141_4457794__full-cat_2	K09690	ABC-2.LPSE.P; lipopolysaccharide transport system permease protein	Transporters			Lipopolysaccharide transport system	3	MF
+k141_4508330__full-cat_1_6	k141_4508330__full-cat_1	K21636	ribonucleoside-triphosphate reductase [EC:1.17.4.2 1.1.98.6] [RN:R02022 R11636]	MISC	Information systems	Nucleotide	Pyrimidine deoxyribonuleotide biosynthesis, CDP/CTP => dCDP/dCTP,dTDP/dTTP	2	MKEF
+k141_5762343__full-cat_2_15	k141_5762343__full-cat_2	AA1	AA1 Laccase / p-diphenol:oxygen oxidoreductase / ferroxidase (EC 1.10.3.2); ; ferroxidase (EC 1.10.3.-); Laccase-like multicopper oxidase (EC 1.10.3.-)	carbon utilization	CAZY	Polyphenolics Cleavage	Auxiliary Activities	3	MK
+k141_5762343__full-cat_2_17	k141_5762343__full-cat_2	K00058	D-3-phosphoglycerate dehydrogenase [EC:1.1.1.95] [RN:R01513]	Organic Nitrogen	Amino Acid		Serine biosynthesis, glycerate-3P => serine	3	MK
+k141_5762343__full-cat_2_20	k141_5762343__full-cat_2	K02051	ABC.SN.S; sulfonate/nitrate/taurine transport system substrate-binding protein	Transporters			NitT/TauT family transport system	3	M
+k141_5762343__full-cat_2_20	k141_5762343__full-cat_2	K15551	tauA; taurine transport system substrate-binding protein	Transporters			Taurine transport system	3	M
+k141_5762343__full-cat_2_22	k141_5762343__full-cat_2	U69	Self-processing occurs at the Ser846|+|Ala bond.	Organic Nitrogen	Peptidase		Self-processing peptidases	3	M
+k141_5768503__full-cat_1_6	k141_5768503__full-cat_1							2	MKF
+k141_5939899__full-cat_2_39	k141_5939899__full-cat_2							3	MK
+k141_7188645__full-cat_2_8	k141_7188645__full-cat_2	K00145	N-acetyl-gamma-glutamyl-phosphate reductase [EC:1.2.1.38] [RN:R03443]	Organic Nitrogen	Amino Acid		Ornithine biosynthesis, glutamate => ornithine	2	MK
+k141_7188645__full-cat_2_9	k141_7188645__full-cat_2	K01491	methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase [EC:1.5.1.5 3.5.4.9] [RN:R01655 R01220]	Energy	C1		Reductive acetyl-CoA pathway (Wood-Ljungdahl pathway)	2	MK
+k141_7228265__full-cat_2_13	k141_7228265__full-cat_2							3	MKF
+k141_7293741__full-cat_1_6	k141_7293741__full-cat_1							3	MKF
+k141_8543353__full-cat_2_3	k141_8543353__full-cat_2	K02050	ABC.SN.P; sulfonate/nitrate/taurine transport system permease protein	Transporters			NitT/TauT family transport system	3	MF
+k141_8553708__full-cat_2_4	k141_8553708__full-cat_2							3	MKF
+k141_8579860__full-cat_2_6	k141_8579860__full-cat_2	K00031	isocitrate dehydrogenase [EC:1.1.1.42 1.1.1.41] [RN:R01899 R00268 R00267 R00709]	carbon utilization	central carbon	TCA	Citrate cycle (TCA cycle, Krebs cycle)	3	MF
+k141_8579860__full-cat_2_6	k141_8579860__full-cat_2	K00031	isocitrate dehydrogenase [EC:1.1.1.42 1.1.1.41] [RN:R01899 R00268 R00267 R00709]	carbon utilization	central carbon	TCA	Citrate cycle, first carbon oxidation, oxaloacetate => 2-oxoglutarate	3	MF
+k141_8579860__full-cat_2_6	k141_8579860__full-cat_2	K00031	isocitrate dehydrogenase [EC:1.1.1.42] [RN:R00267]	Energy	C1		Reductive citrate cycle (Arnon-Buchanan cycle)	3	MF
+k141_8579860__full-cat_2_6	k141_8579860__full-cat_2	K00031	isocitrate dehydrogenase [EC:1.1.1.42] [RN:R01899 R00268]	Organic Nitrogen	Amino Acid		Methylaspartate cycle	3	MF
+k141_8579860__full-cat_2_7	k141_8579860__full-cat_2	K01637	isocitrate lyase [EC:4.1.3.1] [RN:R00479]	carbon utilization	central carbon	glycolysis	Glyoxylate cycle	3	MKF
+k141_9953773__full-cat_2_4	k141_9953773__full-cat_2	K02055	ABC.SP.S; putative spermidine/putrescine transport system substrate-binding protein	Transporters			Putative spermidine/putrescine transport system	3	MF
