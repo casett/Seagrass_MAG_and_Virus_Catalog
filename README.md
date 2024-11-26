@@ -7,6 +7,12 @@
 
 <i> Preprint coming soon </i>
 
+Ettinger, C., & Stajich, J. (2024). casett/Seagrass_MAG_and_Virus_Catalog: v1 (Version v1). Zenodo. https://doi.org/10.5281/zenodo.14226515
+
+Ettinger, C., & Stajich, J. (2024). <i>Zostera marina</i> leaf associated bacterial metagenome assembled genomes [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14225974
+
+Ettinger, C., & Stajich, J. (2024). Seagrass associated viral genomes [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14226039
+
 ### Abstract
 
 Background: Seagrasses are globally distributed marine flowering plants that play foundational roles in coastal environments as ecosystem engineers. While research efforts have explored various aspects of seagrass-associated microbial communities, including describing the diversity of bacteria, fungi and microbial eukaryotes, little is known about viral diversity in these communities. 
