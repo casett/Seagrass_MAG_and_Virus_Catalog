@@ -5,7 +5,7 @@
 
 ### To cite this work or code
 
-<i> Preprint coming soon </i>
+Ettinger CL, & Stajich JE. (2024). A genomic resource for exploring bacterial-viral dynamics in seagrass ecosystems. Preprint available on bioRxiv. DOI: [10.1101/2024.12.06.627215](https://doi.org/10.1101/2024.12.06.627215 )
 
 Ettinger, C., & Stajich, J. (2024). casett/Seagrass_MAG_and_Virus_Catalog: v1 (Version v1). Zenodo. https://doi.org/10.5281/zenodo.14226515
 
